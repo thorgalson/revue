@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://revue-acropolis.com",
+    "start_url": "https://revue-acropolis.com/revue-en-cours/",
     "name": "Revue Acropolis",
     "short_name": "Revue Acropolis",
     "icons": [
