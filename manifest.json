@@ -8,22 +8,22 @@
     "short_name": "Revue Acropolis",
     "icons": [
         {
-            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2015/01/cropped-favicon-192x192.jpg",
+            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2024/02/cropped-logo-revue2-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2015/01/cropped-favicon-192x192.jpg",
+            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2024/02/cropped-logo-revue2-192x192.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2015/01/cropped-favicon-192x192.jpg",
+            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2024/02/cropped-logo-revue2-192x192.png",
             "sizes": "384x384",
             "type": "image/png"
         },
         {
-            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2015/01/cropped-favicon-192x192.jpg",
+            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2024/02/cropped-logo-revue2-192x192.png",
             "sizes": "512x512",
             "type": "image/png"
         }
