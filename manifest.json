@@ -1,0 +1,31 @@
+{
+    "theme_color": "#731aff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://revue-acropolis.com",
+    "name": "Revue Acropolis",
+    "short_name": "Revue Acropolis",
+    "icons": [
+        {
+            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2015/01/cropped-favicon-192x192.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2015/01/cropped-favicon-192x192.jpg",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2015/01/cropped-favicon-192x192.jpg",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2015/01/cropped-favicon-192x192.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
