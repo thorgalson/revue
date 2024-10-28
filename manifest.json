@@ -1,4 +1,9 @@
 {
+  "android": {
+    "defaultConfig": {
+      "targetSdkVersion": "34"
+    }
+  }
   "theme_color": "#731aff",
   "background_color": "#ffffff",
   "display": "standalone",
