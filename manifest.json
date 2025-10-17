@@ -1,4 +1,5 @@
 {
+  "id": "com.revue-acropolis",
   "android": {
     "defaultConfig": {
       "targetSdkVersion": "34"
@@ -7,6 +8,7 @@
   "theme_color": "#731aff",
   "background_color": "#ffffff",
   "display": "standalone",
+  "orientation": "any",
   "scope": "/",
   "start_url": "https://revue-acropolis.com/revue-en-cours/",
   "name": "Revue Acropolis",
