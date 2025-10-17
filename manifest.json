@@ -33,6 +33,20 @@
       "type": "image/png"
     }
   ],
+  "screenshots": [
+    {
+      "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2025/10/screen-phone-0.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide" 
+    },
+    {
+      "src": "https://revue-acropolis.com/wp-content/uploads/sites/20/2025/10/screen-accueil-2.png",
+      "sizes": "392x696",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
   "description": "Revue Acropolis : Un regard philosophique sur le monde\nNous vous proposons un ensemble de contenus : articles, podcasts, vidéos sur des sujets qui traitent des questions de société, de sciences humaines et de culture.",
   "categories": [
     "books",
